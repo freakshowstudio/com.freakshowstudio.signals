@@ -1,0 +1,16 @@
+{
+    "name": "com.freakshowstudio.signaling.Tests.Runtime",
+    "references": [
+        "com.freakshowstudio.signaling.Runtime"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

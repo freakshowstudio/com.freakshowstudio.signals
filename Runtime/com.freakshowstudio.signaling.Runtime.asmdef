@@ -1,0 +1,21 @@
+{
+    "name": "com.freakshowstudio.signaling.Runtime",
+    "references": [
+        "UniRx"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.freakshowstudio.unirx",
+            "expression": "6.2",
+            "define": "SIGNALING_USE_UNIRX"
+        }
+    ]
+}
